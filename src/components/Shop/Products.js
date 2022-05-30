@@ -4,33 +4,33 @@ import classes from './Products.module.css';
 const DUMMY_PRODUCTS = [
   {
     id: 'c1',
-    title: 'product 1',
+    title: 'Computer',
     price: 200,
-    description: 'Description 1'
+    description: 'Dell computer'
   },
   {
     id: 'c2',
-    title: 'product 2',
-    price: 100,
-    description: 'Description 2'
+    title: 'Iphone 12 Pro Max',
+    price: 1200,
+    description: 'Our new iphone 12'
   },
   {
     id: 'c3',
-    title: 'product 3',
+    title: 'Keyboard Hyper X',
     price: 400,
-    description: 'Description 3'
+    description: 'Dummy description'
   },
   {
     id: 'c4',
-    title: 'product 4',
+    title: 'Mouse',
     price: 500,
-    description: 'Description 4'
+    description: 'Dummy description'
   },
   {
     id: 'c5',
-    title: 'product 5',
+    title: 'Mouse Hyper X',
     price: 900,
-    description: 'Description 5'
+    description: 'Dummy description'
   }
 ]
 
